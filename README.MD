@@ -1,3 +1,3 @@
-# 10-11-dcc078-flyweight
+# 10-11-dcc078-facade
 
-![Diagrama](./diagrama-adapter.png)
+![Diagrama](./diagrama-facade.png)
